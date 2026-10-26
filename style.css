@@ -25,6 +25,7 @@ h2 { font-size: 1.35rem; margin: 40px 0 12px; padding-bottom: 6px; border-bottom
 ul, ol { padding: 0; list-style: none; }
 .news li, .timeline li { display: flex; gap: 16px; margin-bottom: 10px; }
 .date { color: var(--muted); min-width: 96px; font-variant-numeric: tabular-nums; font-size: 15px; }
+.edu li { margin-bottom: 4px; }
 .pubs li { margin-bottom: 14px; line-height: 1.45; }
 .pub-title { font-weight: 600; font-size: 15px; }
 .pub-authors { font-size: 13.5px; color: var(--muted); }
